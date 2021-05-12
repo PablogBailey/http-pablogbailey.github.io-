@@ -1,0 +1,23 @@
+body{
+	margin: 0;
+	padding: 0;
+    background-image: url("https://www.chamanexperience.com/wp-content/uploads/2019/11/monte-cook-carretera-paisaje.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.image{
+	width: 100%;
+}
+
+.mb-1{
+	margin: 10px;
+	color: white;
+	font-size: 28px;
+}
+
+.mb-0{
+	color: white;
+	margin: 20px;
+	margin-top: 10px;
+}
+
